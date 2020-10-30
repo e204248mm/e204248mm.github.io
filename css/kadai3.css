@@ -1,0 +1,23 @@
+body{
+    background-image: url(../images/back3.jpeg);
+}
+
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color: green;
+    background-color: rgba(173,255,47,100);
+    text-align: center;
+}
+
+h3{
+    color: blue;
+}
+
+p{
+    color: #FF8C00;
+}
