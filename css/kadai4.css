@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/back_dog.gif);
+}
+
+h1#ue{
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+}
+
+h2#shumi1{
+    color: blue;
+    background-color: rgba(0,0,255,0.5);
+    text-align: center;
+}
+h2#shumi2{
+    color: brown;
+    background-color: rgba(255,0,0,0.5);
+    text-align: center;
+}
+h1#rinku{
+    color: green;
+    background-color: rgba(100,255,50,0.5);
+    text-align: center;
+}
