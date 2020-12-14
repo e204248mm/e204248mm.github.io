@@ -1,0 +1,72 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+
+div.body{
+    width: 1000px;
+    height: 320px;
+    font-size: 0;
+    text-align: center;
+    font-family: "Impact";
+}
+
+div.menu{
+    display: inline-block;
+    width: 250px;
+    height: 320px;
+    font-size: 0;
+    line-height: 100px;
+    margin-right: 50px;
+    vertical-align: top;
+}
+
+div.menu1{
+    height: 100px;
+    background-color: darkorchid;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+div.menu2{
+    height: 100px;
+    background-color: darkorchid;
+    font-size: 30px;
+}
+
+div.images{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    font-size: 0;
+    font-family: "Impact";
+    vertical-align: top;
+}
+
+div.images1{
+    height: 300px;
+    background-color: chartreuse;
+    font-size: 30px;
+    line-height: 300px;
+}
+
+div.article{
+    height: 20px;
+    background-color: skyblue;
+    font-size: 15px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    font-size: 25px;
+    font-family: "Impact";
+    text-align: right;
+    margin-top: 20px;
+}
+
