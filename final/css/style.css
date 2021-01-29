@@ -1,0 +1,220 @@
+body{background-size: 20px 20px;
+	background-color: white;
+	background-image:
+	linear-gradient(45deg, rgba(240, 240, 240, 0.5) 25%, transparent 25%,
+	 transparent 50%, rgba(240, 240, 240, 0.5) 50%, rgba(240, 240, 240, 0.5) 75%,
+	 transparent 75%, transparent),
+	linear-gradient(-45deg, rgba(240, 240, 240, 0.5) 25%, transparent 25%,
+	 transparent 50%, rgba(240, 240, 240, 0.5) 50%, rgba(240, 240, 240, 0.5) 75%,
+	 transparent 75%, transparent);
+    font-family: sans-serif;
+}
+
+div.title{
+    width: 1000px;
+    height: 50px;
+    font-size: 0px;
+    margin-bottom: 20px;
+}
+
+div.sub{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: rgba(127, 255, 212, 0.7);
+    font-size: 20px;
+    line-height: 50px;
+    font-family: "Impact", sans-serif;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.mein{
+    display: inline-block;
+    width: 900px;
+    height: 50px;
+    background-color: rgba(127, 255, 212, 0.7);
+    font-size: 30px;
+    font-family: "Impact", sans-serif;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.body{
+    width: 1000px;
+    height: 1045px;
+    font-size: 0;
+}
+
+div.menu{
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    font-size: 0;
+    font-family: "Impact", sans-serif;
+    text-align: center;
+    margin-right: 50px;
+    vertical-align: top;
+    position: sticky;
+    top: 10px;
+}
+
+div.menu1{
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: solid 2px #000000;
+    font-size: 20px;
+    margin-bottom: 10px;
+    line-height: 40px;
+}
+
+div.content{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    font-size: 0;
+    vertical-align: top;
+}
+
+div.images1{
+    height: 300px;
+    font-size: 0px;
+}
+
+div.article1{
+    height: 150px;
+    font-size: 0px;
+    margin-bottom: 10px;
+}
+
+div.table1{
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    font-size: 15px;
+    vertical-align: top;
+}
+
+table{
+    border: solid;
+    border-color: rgba(255, 127, 0, 0.7);
+}
+
+th{
+    border: solid;
+    border-color: rgba(255, 127, 0, 0.7);
+    background-color: rgba(255, 150, 10, 0.3);
+}
+
+td{
+    border: solid;
+    border-color: rgba(255, 127, 0, 0.7);
+    background-color: rgba(255, 255, 0, 0.3);
+}
+
+div.sentence1{
+    display: inline-block;
+    width: 450px;
+    height: 150px;
+    font-size: 17px;
+    vertical-align: top;
+}
+
+div.article2{
+    height: 150px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+h2{
+    height: 25px;
+    font-size: 20px;
+    border-bottom: solid 3px #364e96;
+}
+
+img.img1{
+    width: 700px;
+    height: 300px;
+    font-size: 20px;
+}
+
+img.img2{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+img.img3{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+img.img4{
+    display: inline-block;
+    width: 235px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+img.img5{
+    display: inline-block;
+    width: 230px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+img.img6{
+    display: inline-block;
+    width: 550px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+img.img7{
+    display: inline-block;
+    width: 150px;
+    height: 300px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+div.footer{
+    width: 1000px;
+    height: 60px;
+    font-size: 0px;
+    margin-top: 10px;
+}
+
+address{
+    display: inline-block;
+    width: 360px;
+    height: 60px;
+    background-color: rgba(255, 165, 0, 0.6);
+    font-size: 20px;
+    text-align: left;
+    line-height: 60px;
+    vertical-align: top;
+}
+
+div.fo1{
+    display: inline-block;
+    width: 640px;
+    height: 60px;
+    background-color: rgba(255, 165, 0, 0.6);
+    font-size: 15px;
+    text-align: right;
+    vertical-align: top;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
